@@ -3580,3 +3580,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Apr2025 16:55:50.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3055ms or 61 ticks behind
 [13Apr2025 16:57:27.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to -188.500000, 61.000000, 527.500000
 [13Apr2025 16:58:06.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to -188.500000, 65.000000, -526.500000
+[13Apr2025 17:15:05.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [A Ruined Citadel]
+[13Apr2025 17:17:14.479] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/20347, l='ServerLevel[world]', x=-190.59, y=77.00, z=-528.17] died, message: 'Armorer hit the ground too hard'
