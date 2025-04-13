@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-13 21:48:12 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_ruined_citadel": {
     "criteria": {
       "citadel": "2025-04-13 17:15:05 +0000"
@@ -236,6 +242,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-04-11 18:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-04-13 21:28:16 +0000"
     },
     "done": true
   },
@@ -350,6 +362,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-21 22:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-04-13 21:28:16 +0000"
     },
     "done": true
   },
@@ -1239,6 +1257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-13 21:28:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-02-22 03:36:50 +0000"
@@ -1419,6 +1443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-13 21:48:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-02-23 23:43:50 +0000"
@@ -1452,6 +1482,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-19 03:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-13 21:28:16 +0000"
     },
     "done": true
   },
@@ -1554,6 +1590,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-04-13 02:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-13 21:28:16 +0000"
     },
     "done": true
   },
@@ -1821,6 +1863,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-13 21:48:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2025-02-21 23:29:12 +0000"
@@ -1875,6 +1923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-13 21:28:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-03-19 03:08:47 +0000"
@@ -1908,6 +1962,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-22 03:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2025-04-13 21:42:23 +0000"
     },
     "done": true
   },
@@ -2037,6 +2097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-13 21:28:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/villager_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-02-23 23:15:40 +0000"
@@ -2052,6 +2118,12 @@
   "minecraft:recipes/travelersbackpack/snow_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-02-23 23:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-13 21:28:16 +0000"
     },
     "done": true
   },
@@ -2088,6 +2160,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-04-11 19:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-13 21:28:16 +0000"
     },
     "done": true
   },
@@ -3315,6 +3393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-13 21:28:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/nether_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-02-23 23:15:40 +0000"
@@ -3405,6 +3489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-13 21:48:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:creeper": "2025-02-21 22:15:37 +0000"
@@ -3462,6 +3552,7 @@
       "minecraft:frozen_river": "2025-02-28 02:00:38 +0000",
       "minecraft:sunflower_plains": "2025-02-28 01:42:21 +0000",
       "minecraft:birch_forest": "2025-02-21 23:57:21 +0000",
+      "minecraft:windswept_hills": "2025-04-13 21:32:28 +0000",
       "minecraft:savanna_plateau": "2025-02-28 01:30:21 +0000",
       "minecraft:beach": "2025-02-21 22:15:51 +0000",
       "minecraft:dark_forest": "2025-03-11 14:53:14 +0000",
@@ -3480,6 +3571,7 @@
       "minecraft:lush_caves": "2025-02-22 01:27:21 +0000",
       "minecraft:deep_cold_ocean": "2025-02-22 02:05:26 +0000",
       "minecraft:frozen_ocean": "2025-02-28 01:59:54 +0000",
+      "minecraft:desert": "2025-04-13 21:38:02 +0000",
       "minecraft:deep_frozen_ocean": "2025-02-28 01:58:00 +0000",
       "minecraft:ocean": "2025-02-24 00:04:11 +0000",
       "minecraft:jungle": "2025-02-28 01:28:30 +0000",
@@ -3604,6 +3696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-04-13 21:28:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/redstone_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-02-22 03:33:06 +0000"
@@ -3721,6 +3819,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-21 22:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-04-13 21:41:10 +0000"
     },
     "done": true
   },
@@ -4413,6 +4517,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-21 22:59:38 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-04-13 21:48:00 +0000"
     },
     "done": true
   },

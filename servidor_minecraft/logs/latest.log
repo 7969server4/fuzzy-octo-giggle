@@ -3643,3 +3643,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Apr2025 20:34:07.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5830, y=64, z=-5898} BlockPos{x=5830, y=63, z=-5897}
 [13Apr2025 20:34:07.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5830, y=65, z=-5898} BlockPos{x=5832, y=64, z=-5897}
 [13Apr2025 21:28:22.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-186, y=124, z=-5707} BlockPos{x=-186, y=123, z=-5708}
+[13Apr2025 21:32:21.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1133, y=64, z=-5607} BlockPos{x=-1135, y=62, z=-5608}
+[13Apr2025 21:32:21.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1133, y=64, z=-5607} BlockPos{x=-1135, y=62, z=-5608}
+[13Apr2025 21:33:38.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1402, y=64, z=-5134} BlockPos{x=-1402, y=62, z=-5134}
+[13Apr2025 21:38:26.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3795, y=66, z=-4267} BlockPos{x=-3793, y=60, z=-4248}
+[13Apr2025 21:38:26.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3795, y=66, z=-4267} BlockPos{x=-3793, y=60, z=-4248}
+[13Apr2025 21:48:00.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Cursed Pyramid]
+[13Apr2025 21:50:06.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-230, y=69, z=-498} BlockPos{x=-229, y=69, z=-498}
