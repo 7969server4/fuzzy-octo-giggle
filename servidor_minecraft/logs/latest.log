@@ -3622,3 +3622,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Apr2025 19:00:44.794] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
 [13Apr2025 19:01:04.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to -188.500000, 65.000000, -526.500000
 [13Apr2025 19:02:29.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported arturrssb to -188.500000, 65.000000, -526.500000
+[13Apr2025 19:09:05.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to arturrssb
+[13Apr2025 19:18:14.029] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/39969, l='ServerLevel[world]', x=-193.63, y=65.56, z=-532.98] died, message: 'Mason burned to death'
