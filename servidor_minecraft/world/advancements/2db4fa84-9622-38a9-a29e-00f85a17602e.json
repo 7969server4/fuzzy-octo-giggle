@@ -2043,6 +2043,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-13 06:56:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/skeleton_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-02-21 23:33:36 +0000"
@@ -2737,6 +2743,7 @@
       "minecraft:witch": "2025-02-21 23:43:41 +0000",
       "minecraft:wither_skeleton": "2025-02-22 03:42:12 +0000",
       "minecraft:ender_dragon": "2025-04-13 04:42:42 +0000",
+      "minecraft:shulker": "2025-04-13 06:56:17 +0000",
       "minecraft:cave_spider": "2025-02-22 03:14:06 +0000",
       "minecraft:piglin": "2025-02-22 05:05:53 +0000",
       "minecraft:enderman": "2025-02-22 00:58:29 +0000",
@@ -4341,6 +4348,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-03-12 02:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-04-13 06:56:55 +0000"
     },
     "done": true
   },

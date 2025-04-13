@@ -3551,3 +3551,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Apr2025 06:48:36.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [The Next Generation]
 [13Apr2025 06:48:36.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Dragon Egg] to arturrssb
 [13Apr2025 06:50:57.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Remote Getaway]
+[13Apr2025 06:56:14.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [The City at the End of the Game]
+[13Apr2025 07:03:02.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Local Brewery]
+[13Apr2025 07:03:26.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Sky's the Limit]
+[13Apr2025 07:03:59.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
