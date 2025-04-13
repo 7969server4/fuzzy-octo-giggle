@@ -1125,6 +1125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-13 20:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-03-22 17:30:16 +0000"
@@ -2643,6 +2649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-04-13 20:39:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-02-22 02:04:36 +0000"
@@ -2846,6 +2858,7 @@
       "minecraft:pillager": "2025-02-21 23:30:08 +0000",
       "minecraft:blaze": "2025-02-22 03:39:52 +0000",
       "minecraft:skeleton": "2025-02-21 22:35:27 +0000",
+      "minecraft:elder_guardian": "2025-04-13 20:39:24 +0000",
       "minecraft:ravager": "2025-02-22 00:08:47 +0000",
       "minecraft:hoglin": "2025-02-23 22:55:16 +0000",
       "minecraft:guardian": "2025-04-13 20:36:22 +0000",
@@ -3224,6 +3237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-13 20:37:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-02-21 23:29:19 +0000"
@@ -3341,6 +3360,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-21 22:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-13 20:37:25 +0000"
     },
     "done": true
   },
@@ -3695,6 +3720,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-19 03:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-13 20:37:25 +0000"
     },
     "done": true
   },
