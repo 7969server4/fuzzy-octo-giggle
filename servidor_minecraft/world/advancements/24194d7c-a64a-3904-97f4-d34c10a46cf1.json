@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-13 16:52:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-11 19:37:37 +0000"
@@ -1018,6 +1024,7 @@
       "minecraft:stony_shore": "2025-04-11 19:32:51 +0000",
       "minecraft:cold_ocean": "2025-04-11 19:33:02 +0000",
       "minecraft:forest": "2025-04-12 03:01:27 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-13 16:57:29 +0000",
       "minecraft:ocean": "2025-04-11 19:33:10 +0000",
       "minecraft:deep_dark": "2025-04-12 01:34:14 +0000",
       "minecraft:meadow": "2025-04-11 23:21:02 +0000",
