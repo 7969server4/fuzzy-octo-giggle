@@ -3612,3 +3612,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Apr2025 18:46:09.739] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1567 Y: 101 Z: 2890
 [13Apr2025 18:46:09.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata was doomed to fall by Shulker
 [13Apr2025 18:46:46.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to arturrssb
+[13Apr2025 19:00:38.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to 1045.500000, 61.000000, 46.500000
+[13Apr2025 19:00:39.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[13Apr2025 19:00:39.300] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[13Apr2025 19:00:39.302] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[13Apr2025 19:00:44.788] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamakalata with unique ID b0c54b8d-05d8-44c7-849e-7e2f8d25a564
+[13Apr2025 19:00:44.789] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1045 Y: 63 Z: 46
+[13Apr2025 19:00:44.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata suffocated in a wall
+[13Apr2025 19:00:44.794] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[13Apr2025 19:01:04.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to -188.500000, 65.000000, -526.500000
+[13Apr2025 19:02:29.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported arturrssb to -188.500000, 65.000000, -526.500000

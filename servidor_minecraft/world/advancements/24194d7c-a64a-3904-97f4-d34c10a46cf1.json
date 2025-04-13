@@ -1069,6 +1069,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-04-13 19:05:13 +0000",
       "minecraft:river": "2025-04-11 19:32:30 +0000",
       "minecraft:stony_shore": "2025-04-11 19:32:51 +0000",
       "minecraft:cold_ocean": "2025-04-11 19:33:02 +0000",
@@ -1501,6 +1502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-13 19:04:14 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-04-11 22:58:28 +0000"
@@ -1874,6 +1881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 19:05:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-11 20:10:41 +0000"
@@ -2081,6 +2094,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-04-13 02:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-13 19:04:14 +0000"
     },
     "done": true
   },
