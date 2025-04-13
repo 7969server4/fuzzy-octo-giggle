@@ -3603,3 +3603,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Apr2025 18:16:25.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
 [13Apr2025 18:16:25.629] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
 [13Apr2025 18:16:25.634] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[13Apr2025 18:33:15.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [The City at the End of the Game]

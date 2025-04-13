@@ -2312,6 +2312,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-13 18:33:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-04-12 01:29:50 +0000"
