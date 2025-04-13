@@ -3650,3 +3650,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Apr2025 21:38:26.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3795, y=66, z=-4267} BlockPos{x=-3793, y=60, z=-4248}
 [13Apr2025 21:48:00.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Cursed Pyramid]
 [13Apr2025 21:50:06.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-230, y=69, z=-498} BlockPos{x=-229, y=69, z=-498}
+[13Apr2025 22:11:37.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Where Is The Stone Pen?]
