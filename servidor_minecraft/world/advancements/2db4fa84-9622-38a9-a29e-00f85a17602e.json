@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-13 21:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-02-21 22:16:40 +0000"
@@ -2235,6 +2241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-13 21:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-02-21 22:08:00 +0000"
@@ -3446,6 +3458,7 @@
       "minecraft:snowy_slopes": "2025-02-28 02:04:50 +0000",
       "minecraft:old_growth_pine_taiga": "2025-02-28 01:53:27 +0000",
       "minecraft:taiga": "2025-02-22 01:28:15 +0000",
+      "minecraft:deep_ocean": "2025-04-13 21:19:05 +0000",
       "minecraft:frozen_river": "2025-02-28 02:00:38 +0000",
       "minecraft:sunflower_plains": "2025-02-28 01:42:21 +0000",
       "minecraft:birch_forest": "2025-02-21 23:57:21 +0000",
@@ -3690,6 +3703,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-02-21 22:19:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-13 21:14:50 +0000"
     },
     "done": true
   },
@@ -4232,6 +4251,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-02-28 02:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-13 21:14:50 +0000"
     },
     "done": true
   },
