@@ -3651,3 +3651,54 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Apr2025 21:48:00.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Cursed Pyramid]
 [13Apr2025 21:50:06.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-230, y=69, z=-498} BlockPos{x=-229, y=69, z=-498}
 [13Apr2025 22:11:37.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Where Is The Stone Pen?]
+[13Apr2025 22:53:14.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[13Apr2025 22:53:14.733] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[13Apr2025 22:53:14.741] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[13Apr2025 22:53:42.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to arturrssb
+[13Apr2025 22:53:42.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Cursed Pyramid]
+[13Apr2025 22:54:03.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[13Apr2025 22:54:03.280] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[13Apr2025 22:54:03.285] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[13Apr2025 22:54:14.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[13Apr2025 22:54:14.430] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[13Apr2025 22:54:14.435] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[13Apr2025 22:54:15.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[13Apr2025 22:54:15.033] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[13Apr2025 22:54:15.035] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[13Apr2025 22:54:43.347] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for arturrssb with unique ID e8730723-d940-4083-a66a-d2a474a882f6
+[13Apr2025 22:54:43.347] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2354 Y: 35 Z: -4751
+[13Apr2025 22:54:43.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb was slain by Ancient Remnant
+[13Apr2025 22:54:56.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported arturrssb to tumamakalata
+[13Apr2025 22:56:32.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[13Apr2025 22:56:32.780] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[13Apr2025 22:56:32.786] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[13Apr2025 22:56:35.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[13Apr2025 22:56:35.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[13Apr2025 22:56:35.236] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for arturrssb with unique ID ee682f45-ec32-4412-a6c5-d98fa85bbb31
+[13Apr2025 22:56:35.236] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2356 Y: 35 Z: -4753
+[13Apr2025 22:56:35.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb was slain by Ancient Remnant
+[13Apr2025 22:56:40.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[13Apr2025 22:56:40.435] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[13Apr2025 22:56:40.440] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[13Apr2025 22:57:55.382] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamakalata with unique ID d96d9207-bdd1-4565-a9f9-a38f834bf9b3
+[13Apr2025 22:57:55.382] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2366 Y: 35 Z: -4740
+[13Apr2025 22:57:55.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata was slain by Ancient Remnant
+[13Apr2025 22:58:56.191] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5175eb6f
+[13Apr2025 22:58:56.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:50033] logged in with entity id 168275 at (-2356.2100606414224, 35.0, -4753.699999988079)
+[13Apr2025 22:58:56.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[13Apr2025 22:58:56.202] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[13Apr2025 22:58:56.202] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[13Apr2025 22:59:01.286] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[13Apr2025 22:59:01.286] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 22:59:01.286] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[13Apr2025 22:59:01.286] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 23:00:23.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Apr2025 23:00:23.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dd<--[HERE]
+[13Apr2025 23:00:24.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Apr2025 23:00:24.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[13Apr2025 23:00:38.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to arturrssb: asd
+[13Apr2025 23:00:55.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[13Apr2025 23:00:55.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode arturrssb spectator<--[HERE]
+[13Apr2025 23:01:07.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Spectator Mode
+[13Apr2025 23:01:13.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[13Apr2025 23:01:13.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
