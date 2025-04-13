@@ -605,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-13 20:35:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/gold_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-02-21 23:32:44 +0000"
@@ -902,6 +908,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-22 01:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-04-13 20:35:12 +0000"
     },
     "done": true
   },
@@ -2559,6 +2571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-04-13 20:35:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-02-22 03:40:18 +0000"
@@ -2628,6 +2646,18 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-02-22 02:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-04-13 20:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-04-13 20:35:33 +0000"
     },
     "done": true
   },
@@ -2745,6 +2775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-13 20:35:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-03-19 03:07:50 +0000"
@@ -2812,6 +2848,7 @@
       "minecraft:skeleton": "2025-02-21 22:35:27 +0000",
       "minecraft:ravager": "2025-02-22 00:08:47 +0000",
       "minecraft:hoglin": "2025-02-23 22:55:16 +0000",
+      "minecraft:guardian": "2025-04-13 20:36:22 +0000",
       "minecraft:vindicator": "2025-02-22 00:07:03 +0000",
       "minecraft:magma_cube": "2025-02-22 04:04:51 +0000",
       "minecraft:spider": "2025-02-21 22:38:30 +0000",
@@ -3241,6 +3278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-04-13 20:35:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/nether_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-02-23 23:15:40 +0000"
@@ -3386,6 +3429,7 @@
       "minecraft:dark_forest": "2025-03-11 14:53:14 +0000",
       "minecraft:sparse_jungle": "2025-02-22 04:30:45 +0000",
       "minecraft:river": "2025-02-21 22:28:59 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-13 20:27:49 +0000",
       "minecraft:snowy_plains": "2025-02-28 02:00:54 +0000",
       "minecraft:stony_shore": "2025-02-28 01:56:07 +0000",
       "minecraft:snowy_taiga": "2025-02-28 02:00:51 +0000",
@@ -3403,6 +3447,7 @@
       "minecraft:jungle": "2025-02-28 01:28:30 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-28 01:54:38 +0000",
       "minecraft:snowy_beach": "2025-02-28 02:00:41 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-13 20:28:04 +0000",
       "minecraft:flower_forest": "2025-02-28 01:43:06 +0000",
       "minecraft:frozen_peaks": "2025-04-12 02:12:22 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 01:00:47 +0000",
@@ -3883,6 +3928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-04-13 20:35:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/magma_cube_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-02-22 03:33:06 +0000"
@@ -3934,6 +3985,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-28 01:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-04-13 20:35:33 +0000"
     },
     "done": true
   },
@@ -4426,6 +4483,12 @@
   "minecraft:recipes/travelersbackpack/red_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2025-02-21 22:12:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-13 20:35:33 +0000"
     },
     "done": true
   },
