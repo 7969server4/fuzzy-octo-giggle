@@ -1,0 +1,21 @@
+{
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-03-12 02:32:47 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-03-12 02:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-03-12 02:32:47 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
