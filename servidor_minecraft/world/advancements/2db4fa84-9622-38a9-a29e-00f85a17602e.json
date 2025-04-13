@@ -953,6 +953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-04-13 15:40:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-04-13 07:03:02 +0000"
@@ -2439,6 +2445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-04-13 15:40:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-02-21 22:26:54 +0000"
@@ -2508,6 +2520,12 @@
   "minecraft:recipes/travelersbackpack/redstone_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-02-21 23:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-13 15:40:28 +0000"
     },
     "done": true
   },
@@ -3629,6 +3647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-13 15:40:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-02-21 23:01:00 +0000"
@@ -4651,6 +4675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-04-13 15:40:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/chicken_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-02-22 03:33:06 +0000"
@@ -4744,6 +4774,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-04-13 02:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-13 15:40:28 +0000"
     },
     "done": true
   },
