@@ -3554,3 +3554,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Apr2025 15:44:23.369] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [13Apr2025 15:44:23.369] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [13Apr2025 15:52:29.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[13Apr2025 16:00:00.199] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[13Apr2025 16:03:23.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[13Apr2025 16:03:56.590] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6153863e
+[13Apr2025 16:03:56.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:37967] logged in with entity id 2465 at (-187.65878543748775, 67.05489334703208, -537.1868577227003)
+[13Apr2025 16:03:56.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[13Apr2025 16:03:56.608] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[13Apr2025 16:03:56.608] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[13Apr2025 16:03:58.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[13Apr2025 16:03:59.694] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[13Apr2025 16:03:59.694] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 16:03:59.695] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[13Apr2025 16:03:59.695] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 16:08:38.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[13Apr2025 16:10:37.201] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/6153, l='ServerLevel[world]', x=-402.33, y=76.00, z=-677.45]
