@@ -6219,3 +6219,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Apr2025 17:17:14.479] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/20347, l='ServerLevel[world]', x=-190.59, y=77.00, z=-528.17] died, message: 'Armorer hit the ground too hard'
 [13Apr2025 17:17:25.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Apr2025 17:17:25.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 17:20:36.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to arturrssb
+[13Apr2025 17:20:36.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [A Ruined Citadel]
+[13Apr2025 17:22:25.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 17:22:25.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 17:27:25.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 17:27:25.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 17:27:30.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Palette Swap]
