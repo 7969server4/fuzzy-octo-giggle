@@ -3702,3 +3702,56 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Apr2025 23:01:07.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Spectator Mode
 [13Apr2025 23:01:13.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
 [13Apr2025 23:01:13.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[13Apr2025 23:02:17.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [The Most Useful Key]
+[13Apr2025 23:02:21.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has reached the goal [A Fast Comeback]
+[13Apr2025 23:02:22.241] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39c98f91
+[13Apr2025 23:02:22.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:53785] logged in with entity id 168728 at (-2356.2100606414224, 35.0, -4753.699999988079)
+[13Apr2025 23:02:22.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[13Apr2025 23:02:22.253] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[13Apr2025 23:02:22.253] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[13Apr2025 23:02:27.834] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[13Apr2025 23:02:27.834] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 23:02:27.834] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[13Apr2025 23:02:27.834] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 23:02:41.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[13Apr2025 23:02:41.530] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[13Apr2025 23:02:41.537] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[13Apr2025 23:02:48.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Survival Mode
+[13Apr2025 23:03:28.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported arturrssb to tumamakalata
+[13Apr2025 23:03:43.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Easy Opening]
+[13Apr2025 23:05:11.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[13Apr2025 23:05:11.730] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[13Apr2025 23:05:11.737] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[13Apr2025 23:05:20.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Strong Undead]
+[13Apr2025 23:05:20.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has completed the challenge [Death finds a Way]
+[13Apr2025 23:06:33.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Back to childhood]
+[13Apr2025 23:06:33.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Not even afraid of death]
+[13Apr2025 23:08:10.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to -188.500000, 65.000000, -526.500000
+[13Apr2025 23:08:33.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Timed out
+[13Apr2025 23:08:33.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[13Apr2025 23:08:33.201] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Apr2025 23:08:46.236] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@37b11f74
+[13Apr2025 23:08:46.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:56673] logged in with entity id 171962 at (-213.5, 72.0, -505.5)
+[13Apr2025 23:08:46.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[13Apr2025 23:08:46.249] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[13Apr2025 23:08:46.249] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[13Apr2025 23:08:47.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! 10.085603913000341,0.7528873836964749,0.2306763319975289
+[13Apr2025 23:08:48.505] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[13Apr2025 23:08:48.505] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 23:08:48.555] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[13Apr2025 23:08:48.555] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 23:09:16.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Timed out
+[13Apr2025 23:09:16.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[13Apr2025 23:10:15.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2448, y=64, z=-4672} BlockPos{x=-2447, y=63, z=-4672}
+[13Apr2025 23:10:15.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2448, y=64, z=-4672} BlockPos{x=-2447, y=63, z=-4672}
+[13Apr2025 23:10:22.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2422, y=64, z=-4650} BlockPos{x=-2420, y=63, z=-4650}
+[13Apr2025 23:10:22.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2422, y=64, z=-4650} BlockPos{x=-2420, y=63, z=-4650}
+[13Apr2025 23:10:42.935] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@53c4b084
+[13Apr2025 23:10:42.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:50181] logged in with entity id 173185 at (-192.6671555100615, 72.0, -516.4329098143434)
+[13Apr2025 23:10:42.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[13Apr2025 23:10:42.948] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[13Apr2025 23:10:42.948] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[13Apr2025 23:10:47.989] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[13Apr2025 23:10:47.989] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 23:10:47.990] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[13Apr2025 23:10:47.990] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
