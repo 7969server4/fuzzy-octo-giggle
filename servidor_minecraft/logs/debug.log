@@ -6273,3 +6273,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Apr2025 18:33:15.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [The City at the End of the Game]
 [13Apr2025 18:37:25.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Apr2025 18:37:25.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 18:38:58.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to arturrssb
+[13Apr2025 18:42:25.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 18:42:25.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 18:44:54.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[13Apr2025 18:44:54.780] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[13Apr2025 18:44:54.781] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[13Apr2025 18:46:09.737] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamakalata with unique ID 241d45c0-f73a-4dea-9054-880225e5f2a7
+[13Apr2025 18:46:09.739] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1567 Y: 101 Z: 2890
+[13Apr2025 18:46:09.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata was doomed to fall by Shulker
+[13Apr2025 18:46:09.750] [Server thread/DEBUG] [tombstone/]: A new grave of the player tumamakalata was created at position [x:-1569, y:101, z:2891, dim:minecraft:the_end]
+[13Apr2025 18:46:46.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to arturrssb
+[13Apr2025 18:47:25.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 18:47:25.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
