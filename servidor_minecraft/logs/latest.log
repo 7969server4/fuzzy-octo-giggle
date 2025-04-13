@@ -3624,3 +3624,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Apr2025 19:02:29.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported arturrssb to -188.500000, 65.000000, -526.500000
 [13Apr2025 19:09:05.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to arturrssb
 [13Apr2025 19:18:14.029] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/39969, l='ServerLevel[world]', x=-193.63, y=65.56, z=-532.98] died, message: 'Mason burned to death'
+[13Apr2025 19:24:34.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[13Apr2025 19:24:34.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[13Apr2025 19:24:41.448] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@15644079
+[13Apr2025 19:24:41.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:58099] logged in with entity id 46357 at (-191.64547652124867, 72.875, -519.5784411187893)
+[13Apr2025 19:24:41.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[13Apr2025 19:24:41.510] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[13Apr2025 19:24:41.510] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[13Apr2025 19:24:43.953] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[13Apr2025 19:24:43.953] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 19:24:43.982] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[13Apr2025 19:24:43.983] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
