@@ -556,6 +556,7 @@
       "minecraft:skeleton": "2025-04-11 19:57:27 +0000",
       "minecraft:spider": "2025-04-12 01:23:22 +0000",
       "minecraft:creeper": "2025-04-12 02:45:22 +0000",
+      "minecraft:shulker": "2025-04-13 18:14:06 +0000",
       "minecraft:cave_spider": "2025-04-13 02:38:10 +0000",
       "minecraft:enderman": "2025-04-12 02:30:38 +0000",
       "minecraft:zombie": "2025-04-11 21:23:44 +0000"
@@ -1732,6 +1733,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-04-11 19:37:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-13 18:11:28 +0000"
     },
     "done": true
   },
