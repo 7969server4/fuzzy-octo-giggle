@@ -3542,3 +3542,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Apr2025 06:36:41.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...at @s run detect ~ ~ ~ minecraft:dragon_egg 0 say ¡Aquí está el huevo!<--[HERE]
 [13Apr2025 06:36:57.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
 [13Apr2025 06:36:57.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...at @s run detect ~ ~ ~ minecraft:dragon_egg<--[HERE]
+[13Apr2025 06:43:45.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Survival Mode
+[13Apr2025 06:45:26.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported arturrssb to -1744.500000, 0.000000, 242.500000
+[13Apr2025 06:45:53.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[13Apr2025 06:45:53.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode spectate arturrssb<--[HERE]
+[13Apr2025 06:46:00.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Spectator Mode
+[13Apr2025 06:47:35.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Survival Mode
+[13Apr2025 06:48:36.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [The Next Generation]
+[13Apr2025 06:48:36.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Dragon Egg] to arturrssb
+[13Apr2025 06:50:57.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Remote Getaway]
