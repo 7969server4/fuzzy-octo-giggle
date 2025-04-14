@@ -145,3 +145,76 @@
 [14Apr2025 02:45:05.494] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamakalata with unique ID 1a8389b2-4f82-4587-89f0-0d7dfcea723f
 [14Apr2025 02:45:05.494] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1159 Y: 67 Z: 748
 [14Apr2025 02:45:05.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata fell from a high place
+[14Apr2025 02:45:24.441] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@22c44b01
+[14Apr2025 02:45:24.445] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:48975] logged in with entity id 236754 at (-1159.179276247009, 67.77621568854887, 748.6349036687706)
+[14Apr2025 02:45:24.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[14Apr2025 02:45:24.450] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[14Apr2025 02:45:24.450] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[14Apr2025 02:45:26.303] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[14Apr2025 02:45:26.304] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[14Apr2025 02:45:26.304] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[14Apr2025 02:45:26.304] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[14Apr2025 02:45:34.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Disconnected
+[14Apr2025 02:45:34.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[14Apr2025 02:45:38.442] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7abe0f5a
+[14Apr2025 02:45:38.446] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:60059] logged in with entity id 236838 at (-203.5, 72.0, -515.5)
+[14Apr2025 02:45:38.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[14Apr2025 02:45:38.491] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[14Apr2025 02:45:38.491] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[14Apr2025 02:45:39.953] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[14Apr2025 02:45:39.954] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[14Apr2025 02:45:39.954] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[14Apr2025 02:45:39.954] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[14Apr2025 02:49:05.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata moved wrongly!
+[14Apr2025 02:49:05.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata was kicked for floating too long!
+[14Apr2025 02:49:06.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Flying is not enabled on this server
+[14Apr2025 02:49:06.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[14Apr2025 02:49:10.389] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f18a459[id=<null>,name=tumamakalata,properties={},legacy=false] (/127.83.137.248:58889) lost connection: Disconnected
+[14Apr2025 02:49:13.944] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2c2f50dc
+[14Apr2025 02:49:13.949] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:39815] logged in with entity id 238397 at (-1161.3221274909788, 14.920504108421916, 820.3974457716155)
+[14Apr2025 02:49:13.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[14Apr2025 02:49:13.955] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[14Apr2025 02:49:13.955] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[14Apr2025 02:49:15.658] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[14Apr2025 02:49:15.658] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[14Apr2025 02:49:15.658] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[14Apr2025 02:49:15.658] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[14Apr2025 02:49:27.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[14Apr2025 02:49:27.790] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[14Apr2025 02:49:27.791] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[14Apr2025 02:49:44.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Timed out
+[14Apr2025 02:49:44.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[14Apr2025 02:49:44.036] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamakalata with unique ID 2323c15a-c32e-464f-9e34-ede2015531c5
+[14Apr2025 02:49:44.036] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1137 Y: 12 Z: 800
+[14Apr2025 02:49:44.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata was slain by Mimic
+[14Apr2025 02:49:57.838] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2f9f12e9
+[14Apr2025 02:49:57.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:57917] logged in with entity id 238790 at (-1135.701860088388, 12.898818117494182, 798.0316444992703)
+[14Apr2025 02:49:57.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[14Apr2025 02:49:57.845] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[14Apr2025 02:49:57.846] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[14Apr2025 02:49:59.456] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[14Apr2025 02:49:59.457] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[14Apr2025 02:49:59.457] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[14Apr2025 02:49:59.457] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[14Apr2025 02:50:13.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Disconnected
+[14Apr2025 02:50:13.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[14Apr2025 02:50:17.988] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@64e978fb
+[14Apr2025 02:50:17.993] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:53209] logged in with entity id 239066 at (-1135.407448749279, 11.0625, 798.8874999880791)
+[14Apr2025 02:50:17.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[14Apr2025 02:50:17.998] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[14Apr2025 02:50:17.999] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[14Apr2025 02:50:19.810] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[14Apr2025 02:50:19.810] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[14Apr2025 02:50:19.810] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[14Apr2025 02:50:19.810] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[14Apr2025 02:50:48.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Timed out
+[14Apr2025 02:50:48.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[14Apr2025 02:51:49.838] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7dfdaaa9
+[14Apr2025 02:51:49.842] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:49609] logged in with entity id 239592 at (-1142.7843941994824, 13.0, 805.5451434002676)
+[14Apr2025 02:51:49.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[14Apr2025 02:51:49.849] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[14Apr2025 02:51:49.849] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[14Apr2025 02:51:54.193] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[14Apr2025 02:51:54.193] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[14Apr2025 02:51:54.193] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[14Apr2025 02:51:54.193] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
