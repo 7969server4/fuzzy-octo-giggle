@@ -43,3 +43,10 @@
 [14Apr2025 00:10:54.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-179, y=73, z=-518} BlockPos{x=-179, y=72, z=-519}
 [14Apr2025 01:19:12.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Getting an Upgrade]
 [14Apr2025 01:27:23.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has reached the goal [Bone Crusher]
+[14Apr2025 01:37:53.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[14Apr2025 01:37:53.087] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[14Apr2025 01:37:53.089] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[14Apr2025 01:37:54.589] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamakalata with unique ID 5b8a2b4d-1522-4f25-99a7-8ce59653eb9f
+[14Apr2025 01:37:54.589] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -186 Y: 72 Z: -501
+[14Apr2025 01:37:54.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata went up in flames
+[14Apr2025 01:37:54.591] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
