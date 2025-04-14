@@ -50,3 +50,14 @@
 [14Apr2025 01:37:54.589] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -186 Y: 72 Z: -501
 [14Apr2025 01:37:54.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata went up in flames
 [14Apr2025 01:37:54.591] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[14Apr2025 01:46:12.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[14Apr2025 01:47:57.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=73, z=-503} BlockPos{x=-157, y=72, z=-503}
+[14Apr2025 01:48:08.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=71, z=-502} BlockPos{x=-153, y=71, z=-503}
+[14Apr2025 01:48:08.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=71, z=-502} BlockPos{x=-153, y=71, z=-503}
+[14Apr2025 01:48:31.147] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=74, z=-505} BlockPos{x=-153, y=74, z=-506}
+[14Apr2025 02:02:44.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-197, y=-50, z=-485} BlockPos{x=-198, y=-51, z=-485}
+[14Apr2025 02:02:44.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-197, y=-50, z=-485} BlockPos{x=-198, y=-51, z=-485}
+[14Apr2025 02:02:44.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-197, y=-50, z=-485} BlockPos{x=-198, y=-51, z=-485}
+[14Apr2025 02:02:44.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-197, y=-50, z=-485} BlockPos{x=-198, y=-51, z=-485}
+[14Apr2025 02:02:44.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-197, y=-50, z=-485} BlockPos{x=-198, y=-51, z=-485}
+[14Apr2025 02:02:44.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-197, y=-50, z=-485} BlockPos{x=-198, y=-51, z=-485}
