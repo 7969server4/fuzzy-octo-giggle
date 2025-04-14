@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-14 01:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-04-11 19:37:28 +0000"
@@ -740,6 +746,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-04-11 19:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-14 01:19:05 +0000"
     },
     "done": true
   },
@@ -1528,6 +1540,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-14 01:27:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-04-13 17:22:52 +0000"
@@ -2118,6 +2136,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-14 01:19:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-04-11 19:35:38 +0000"
@@ -2511,6 +2535,12 @@
   "tombstone:adventure/find_easter_egg": {
     "criteria": {
       "coded_trigger": "2025-04-12 00:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-14 01:19:05 +0000"
     },
     "done": true
   },
