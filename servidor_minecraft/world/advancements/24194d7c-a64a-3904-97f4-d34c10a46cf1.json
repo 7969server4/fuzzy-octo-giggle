@@ -1704,6 +1704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-04-14 01:00:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-14 00:03:16 +0000"
@@ -2133,6 +2139,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-04-11 20:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-04-14 01:00:29 +0000"
     },
     "done": true
   },
