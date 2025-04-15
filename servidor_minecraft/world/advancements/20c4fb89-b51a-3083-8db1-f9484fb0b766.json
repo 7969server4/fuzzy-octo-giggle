@@ -95,6 +95,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-15 03:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-15 03:37:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-04-11 21:38:37 +0000"
@@ -287,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-15 03:33:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-11 21:42:38 +0000"
@@ -364,6 +382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-04-15 03:37:35 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-04-11 21:37:02 +0000"
@@ -385,6 +409,18 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_the_recipe": "2025-04-13 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-15 03:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-15 03:34:35 +0000"
     },
     "done": true
   },
@@ -622,9 +658,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-04-15 03:37:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-04-11 21:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-15 03:34:35 +0000"
     },
     "done": true
   },
@@ -689,6 +737,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-04-11 21:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-15 03:36:57 +0000"
     },
     "done": true
   },
@@ -758,6 +812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-04-15 03:37:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-04-11 21:42:38 +0000"
@@ -818,6 +878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-04-15 03:37:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-04-13 01:49:53 +0000"
@@ -875,6 +941,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-04-13 01:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-15 03:33:09 +0000"
     },
     "done": true
   },
@@ -953,6 +1025,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-04-11 21:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-04-15 03:37:35 +0000"
     },
     "done": true
   },
@@ -1094,15 +1172,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-15 03:36:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-04-11 21:44:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-15 03:34:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-04-11 21:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-15 03:37:35 +0000"
     },
     "done": true
   },
@@ -1148,6 +1244,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-15 03:41:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-11 21:39:06 +0000"
@@ -1175,6 +1277,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_leggings": "2025-04-11 21:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-15 03:34:35 +0000"
     },
     "done": true
   },
@@ -1241,6 +1349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-15 03:34:46 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_easter_egg": {
     "criteria": {
       "coded_trigger": "2025-04-11 21:40:55 +0000"
@@ -1295,6 +1409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-15 03:34:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-04-11 21:41:09 +0000"
@@ -1304,6 +1424,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-11 21:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-15 03:37:35 +0000"
     },
     "done": true
   },
@@ -1358,6 +1484,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-04-13 01:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-15 03:37:35 +0000"
     },
     "done": true
   },

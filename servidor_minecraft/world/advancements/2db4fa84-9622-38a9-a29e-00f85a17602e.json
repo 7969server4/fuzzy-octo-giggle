@@ -1109,6 +1109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2025-04-15 03:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-02-21 23:28:46 +0000"
@@ -1410,6 +1416,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-02-21 22:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_purple_dye": "2025-04-15 03:40:25 +0000"
     },
     "done": true
   },
@@ -2268,6 +2280,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-04-13 21:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-04-15 03:40:25 +0000"
     },
     "done": true
   },

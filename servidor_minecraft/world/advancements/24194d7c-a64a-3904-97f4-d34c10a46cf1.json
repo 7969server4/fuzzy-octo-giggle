@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-15 03:34:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-04-11 19:37:37 +0000"
@@ -245,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-15 03:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-04-13 17:25:10 +0000"
@@ -368,6 +380,12 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-04-12 02:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-15 03:34:19 +0000"
     },
     "done": true
   },
@@ -1275,6 +1293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-15 03:34:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-11 19:37:37 +0000"
@@ -1823,6 +1847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-15 03:34:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2025-04-11 20:09:00 +0000"
@@ -2072,6 +2102,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_the_recipe": "2025-04-13 19:05:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-15 03:34:19 +0000"
     },
     "done": true
   },
@@ -2591,9 +2627,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-15 03:34:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-04-12 01:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-04-15 03:42:38 +0000"
     },
     "done": true
   },

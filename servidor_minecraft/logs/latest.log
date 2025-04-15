@@ -3583,3 +3583,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [15Apr2025 03:32:45.764] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [15Apr2025 03:32:45.764] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from OWO : SUCCESS
 [15Apr2025 03:32:45.764] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[15Apr2025 03:41:58.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has made the advancement [Amateur Archaeologist]
