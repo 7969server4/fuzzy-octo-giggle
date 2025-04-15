@@ -3619,3 +3619,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [15Apr2025 04:04:28.173] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
 [15Apr2025 04:04:28.173] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [15Apr2025 04:06:50.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata moved too quickly! 2.0556427074130568,1.7967356006687112,-9.79999763759804
+[15Apr2025 04:08:04.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata was kicked for floating too long!
+[15Apr2025 04:08:04.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Flying is not enabled on this server
+[15Apr2025 04:08:04.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[15Apr2025 04:09:51.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has completed the challenge [Hero of the Village]
+[15Apr2025 04:10:24.970] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@10fa9328
+[15Apr2025 04:10:24.976] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:44761] logged in with entity id 17565 at (-189.09218221733235, 96.00133597911214, -563.1252516795421)
+[15Apr2025 04:10:24.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[15Apr2025 04:10:25.016] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[15Apr2025 04:10:25.016] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[15Apr2025 04:10:26.653] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[15Apr2025 04:10:26.654] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[15Apr2025 04:10:26.654] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[15Apr2025 04:10:26.654] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[15Apr2025 04:10:28.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> bloque celeste
+[15Apr2025 04:10:32.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> tienen?
