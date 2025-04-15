@@ -1905,6 +1905,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-04-15 03:57:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/lime_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2025-02-21 22:12:33 +0000"

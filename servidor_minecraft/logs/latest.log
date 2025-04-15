@@ -3603,3 +3603,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [15Apr2025 03:54:26.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Ambush]
 [15Apr2025 03:57:19.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has completed the challenge [Village Defender]
 [15Apr2025 03:57:20.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 has made the advancement [Cover Me with Diamonds]
+[15Apr2025 03:58:50.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has reached the goal [Fortuitous Militia]
+[15Apr2025 04:00:40.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OWO> llamada moises
+[15Apr2025 04:03:27.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata was kicked for floating too long!
+[15Apr2025 04:03:27.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Flying is not enabled on this server
+[15Apr2025 04:03:27.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[15Apr2025 04:03:27.874] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Apr2025 04:04:26.426] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1633667a
+[15Apr2025 04:04:26.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:45233] logged in with entity id 15693 at (-227.87365972246647, 87.17675927506424, -580.1992804154725)
+[15Apr2025 04:04:26.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[15Apr2025 04:04:26.471] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[15Apr2025 04:04:26.471] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[15Apr2025 04:04:28.173] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[15Apr2025 04:04:28.173] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[15Apr2025 04:04:28.173] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[15Apr2025 04:04:28.173] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[15Apr2025 04:06:50.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata moved too quickly! 2.0556427074130568,1.7967356006687112,-9.79999763759804

@@ -395,9 +395,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-04-15 03:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-04-11 21:38:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-04-15 03:58:50 +0000"
     },
     "done": true
   },
@@ -515,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-04-15 03:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-04-11 21:39:30 +0000"
@@ -611,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-04-15 03:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-04-11 21:41:09 +0000"
@@ -689,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-04-15 03:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-04-13 01:56:27 +0000"
@@ -724,7 +754,9 @@
       "minecraft:blaze": "2025-04-13 01:54:50 +0000",
       "minecraft:pillager": "2025-04-15 03:52:10 +0000",
       "minecraft:skeleton": "2025-04-13 01:55:57 +0000",
+      "minecraft:vindicator": "2025-04-15 03:57:28 +0000",
       "minecraft:spider": "2025-04-11 21:46:29 +0000",
+      "minecraft:witch": "2025-04-15 03:58:47 +0000",
       "minecraft:wither_skeleton": "2025-04-13 01:56:09 +0000",
       "minecraft:enderman": "2025-04-11 21:48:13 +0000"
     },
@@ -745,6 +777,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-04-15 03:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-04-15 03:58:47 +0000"
     },
     "done": true
   },
@@ -1240,6 +1278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-15 03:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-04-11 21:38:37 +0000"
@@ -1303,6 +1347,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-15 03:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-04-15 03:58:47 +0000"
     },
     "done": true
   },
@@ -1522,6 +1572,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-13 01:54:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-04-15 03:58:47 +0000"
     },
     "done": true
   },
