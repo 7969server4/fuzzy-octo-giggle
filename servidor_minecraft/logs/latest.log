@@ -3642,3 +3642,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [15Apr2025 04:23:09.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO left the game
 [15Apr2025 04:25:03.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: infouni25 lost connection: Disconnected
 [15Apr2025 04:25:03.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 left the game
+[15Apr2025 04:29:41.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[15Apr2025 04:30:52.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has reached the goal [Fortuitous Militia]
+[15Apr2025 04:36:41.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has completed the challenge [Hero of the Village]
