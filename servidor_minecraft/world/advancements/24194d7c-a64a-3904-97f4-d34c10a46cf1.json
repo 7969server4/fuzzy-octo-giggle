@@ -613,6 +613,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-15 03:54:21 +0000",
       "minecraft:skeleton": "2025-04-11 19:57:27 +0000",
       "minecraft:spider": "2025-04-12 01:23:22 +0000",
       "minecraft:creeper": "2025-04-12 02:45:22 +0000",
@@ -693,6 +694,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-12 01:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-15 03:54:21 +0000"
     },
     "done": true
   },
@@ -1434,6 +1441,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-04-11 19:42:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-15 03:54:26 +0000"
     },
     "done": true
   },

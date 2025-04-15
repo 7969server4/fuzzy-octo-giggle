@@ -324,6 +324,7 @@
       "apple": "2025-04-11 21:40:47 +0000",
       "mutton": "2025-04-11 21:41:41 +0000",
       "rotten_flesh": "2025-04-11 21:42:30 +0000",
+      "golden_carrot": "2025-04-15 03:50:29 +0000",
       "carrot": "2025-04-11 21:41:52 +0000"
     },
     "done": false
@@ -721,6 +722,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-04-13 01:54:50 +0000",
+      "minecraft:pillager": "2025-04-15 03:52:10 +0000",
       "minecraft:skeleton": "2025-04-13 01:55:57 +0000",
       "minecraft:spider": "2025-04-11 21:46:29 +0000",
       "minecraft:wither_skeleton": "2025-04-13 01:56:09 +0000",
@@ -812,6 +814,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-15 03:52:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-04-15 03:37:35 +0000"
@@ -833,6 +841,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-13 01:55:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-15 03:52:10 +0000"
     },
     "done": true
   },
@@ -875,6 +889,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-04-11 21:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-15 03:48:31 +0000"
     },
     "done": true
   },
@@ -1433,6 +1453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-15 03:48:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-04-11 21:42:38 +0000"
@@ -1581,6 +1607,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-04-13 02:20:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-15 03:52:10 +0000"
     },
     "done": true
   },
