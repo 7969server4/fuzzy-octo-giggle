@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-15 04:19:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-15 04:07:16 +0000"
@@ -723,6 +729,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:stony_shore": "2025-04-15 04:03:20 +0000",
+      "minecraft:forest": "2025-04-15 04:17:15 +0000",
       "minecraft:deep_dark": "2025-04-12 02:39:16 +0000",
       "minecraft:plains": "2025-04-11 22:48:17 +0000"
     },

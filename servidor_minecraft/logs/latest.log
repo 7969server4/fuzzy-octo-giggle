@@ -3634,3 +3634,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [15Apr2025 04:10:26.654] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [15Apr2025 04:10:28.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> bloque celeste
 [15Apr2025 04:10:32.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> tienen?
+[15Apr2025 04:18:09.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-336, y=69, z=-509} BlockPos{x=-337, y=69, z=-510}
+[15Apr2025 04:19:10.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has made the advancement [Not even afraid of death]
+[15Apr2025 04:19:10.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has made the advancement [Back to childhood]
+[15Apr2025 04:21:29.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OWO> por que destruyes mi terreno?
+[15Apr2025 04:23:09.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OWO lost connection: Disconnected
+[15Apr2025 04:23:09.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO left the game
+[15Apr2025 04:25:03.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: infouni25 lost connection: Disconnected
+[15Apr2025 04:25:03.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 left the game
