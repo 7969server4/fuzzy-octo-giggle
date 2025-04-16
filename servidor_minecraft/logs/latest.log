@@ -3560,3 +3560,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [16Apr2025 04:59:18.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> seed
 [16Apr2025 04:59:31.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seed: [2036632858874344226]
 [16Apr2025 04:59:48.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> Seed: [2036632858874344226]
+[16Apr2025 05:29:43.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=22, z=-483} BlockPos{x=-145, y=23, z=-485}

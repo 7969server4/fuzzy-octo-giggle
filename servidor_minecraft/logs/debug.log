@@ -5941,3 +5941,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [16Apr2025 05:14:04.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Apr2025 05:19:04.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Apr2025 05:19:04.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 05:24:04.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 05:24:04.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 05:29:04.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 05:29:04.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 05:29:43.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=22, z=-483} BlockPos{x=-145, y=23, z=-485}
+[16Apr2025 05:34:04.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 05:34:04.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
