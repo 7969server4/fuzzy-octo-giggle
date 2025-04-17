@@ -3940,3 +3940,36 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17Apr2025 18:54:38.102] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
 [17Apr2025 19:09:14.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camote3000 lost connection: Disconnected
 [17Apr2025 19:09:14.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 left the game
+[17Apr2025 19:16:46.076] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/41581, l='ServerLevel[world]', x=-321.98, y=110.31, z=-816.60] died, message: 'Nitwit tried to swim in lava'
+[17Apr2025 19:17:17.376] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/41627, l='ServerLevel[world]', x=-287.78, y=119.00, z=-787.45] died, message: 'Nitwit burned to death'
+[17Apr2025 19:24:18.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Apr2025 19:24:18.695] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[17Apr2025 19:24:18.695] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[17Apr2025 19:24:50.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Knowledge of Death]
+[17Apr2025 19:24:50.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has reached the goal [Strong or Careful]
+[17Apr2025 19:24:50.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata was impaled on a stalagmite
+[17Apr2025 19:25:49.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata was kicked for floating too long!
+[17Apr2025 19:25:49.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Flying is not enabled on this server
+[17Apr2025 19:25:49.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[17Apr2025 19:26:19.687] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@62e1cec8
+[17Apr2025 19:26:19.691] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:60951] logged in with entity id 66072 at (-97.89792057240179, 99.14998983419157, -650.1849443824915)
+[17Apr2025 19:26:19.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[17Apr2025 19:26:19.718] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[17Apr2025 19:26:19.718] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[17Apr2025 19:26:21.137] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[17Apr2025 19:26:21.137] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[17Apr2025 19:26:21.137] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[17Apr2025 19:26:21.137] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[17Apr2025 19:26:25.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata was kicked for floating too long!
+[17Apr2025 19:26:25.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Flying is not enabled on this server
+[17Apr2025 19:26:25.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[17Apr2025 19:26:30.289] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3622bec5
+[17Apr2025 19:26:30.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:49875] logged in with entity id 66269 at (-97.89792057240179, 83.90176302120759, -650.1849443824915)
+[17Apr2025 19:26:30.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[17Apr2025 19:26:30.311] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[17Apr2025 19:26:30.312] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[17Apr2025 19:26:31.937] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[17Apr2025 19:26:31.938] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[17Apr2025 19:26:31.938] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[17Apr2025 19:26:31.938] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[17Apr2025 19:27:46.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [A Strange Grave Dust]
