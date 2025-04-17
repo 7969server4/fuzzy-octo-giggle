@@ -4108,3 +4108,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17Apr2025 21:55:56.531] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [17Apr2025 21:55:56.589] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [17Apr2025 21:55:56.589] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[17Apr2025 22:06:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Apr2025 22:06:07.181] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[17Apr2025 22:06:07.182] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
