@@ -4070,3 +4070,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17Apr2025 21:08:36.402] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [17Apr2025 21:08:36.402] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from camote3000 : SUCCESS
 [17Apr2025 21:08:36.402] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[17Apr2025 21:16:22.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Apr2025 21:16:22.425] [Server thread/WARN] [tombstone/]: The death event of the player camote3000 was canceled by another mod
+[17Apr2025 21:16:22.431] [Server thread/INFO] [tombstone/]: The player camote3000 has successfully been saved
+[17Apr2025 21:16:34.958] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for camote3000 with unique ID d7a58360-6b46-430c-9a8d-e2ce3dc085a4
+[17Apr2025 21:16:34.958] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -47 Y: 65 Z: -42
+[17Apr2025 21:16:34.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 was slain by Wither Skeleton
+[17Apr2025 21:20:39.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Apr2025 21:20:39.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[17Apr2025 21:20:39.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Apr2025 21:20:39.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[17Apr2025 21:20:40.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Apr2025 21:20:40.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sad<--[HERE]
+[17Apr2025 21:22:12.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Apr2025 21:22:12.577] [Server thread/WARN] [tombstone/]: The death event of the player camote3000 was canceled by another mod
+[17Apr2025 21:22:12.579] [Server thread/INFO] [tombstone/]: The player camote3000 has successfully been saved
+[17Apr2025 21:22:21.379] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for camote3000 with unique ID e84187d8-a50d-430c-94d6-1c04b13f8353
+[17Apr2025 21:22:21.380] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -35 Y: 71 Z: -102
+[17Apr2025 21:22:21.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 was burnt to a crisp whilst fighting Ghast
+[17Apr2025 21:22:21.381] [Server thread/INFO] [tombstone/]: The player camote3000 has successfully been saved
