@@ -4158,3 +4158,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17Apr2025 23:34:20.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
 [17Apr2025 23:34:20.698] [Server thread/WARN] [tombstone/]: The death event of the player infouni25 was canceled by another mod
 [17Apr2025 23:34:20.698] [Server thread/INFO] [tombstone/]: The player infouni25 has successfully been saved
+[17Apr2025 23:48:39.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Neighborhood Brawl]
+[17Apr2025 23:51:11.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Apr2025 23:51:11.927] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[17Apr2025 23:51:11.933] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
