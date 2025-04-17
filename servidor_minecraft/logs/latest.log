@@ -3551,3 +3551,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17Apr2025 04:58:22.178] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [17Apr2025 04:58:22.178] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [17Apr2025 05:01:53.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-126, y=81, z=-515} BlockPos{x=-125, y=80, z=-515}
+[17Apr2025 05:15:33.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Timed out
+[17Apr2025 05:15:33.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[17Apr2025 05:15:33.196] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
