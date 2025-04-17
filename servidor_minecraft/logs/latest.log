@@ -3914,3 +3914,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17Apr2025 18:21:01.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamerule playerSleepingPercentage (cantidad)<--[HERE]
 [17Apr2025 18:21:11.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gamerule playersSleepingPercentage is now set to: 1
 [17Apr2025 18:28:39.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has reached the goal [Bone Crusher]
+[17Apr2025 18:35:18.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported camote3000 to arturrssb
+[17Apr2025 18:35:21.275] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/41626, l='ServerLevel[world]', x=-371.49, y=114.00, z=-754.48] died, message: 'Fletcher froze to death'

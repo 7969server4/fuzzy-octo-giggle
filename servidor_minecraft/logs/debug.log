@@ -7120,3 +7120,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17Apr2025 18:27:23.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Apr2025 18:27:23.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Apr2025 18:28:39.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has reached the goal [Bone Crusher]
+[17Apr2025 18:32:23.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 18:32:23.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 18:35:18.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported camote3000 to arturrssb
+[17Apr2025 18:35:21.275] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/41626, l='ServerLevel[world]', x=-371.49, y=114.00, z=-754.48] died, message: 'Fletcher froze to death'
+[17Apr2025 18:37:23.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 18:37:23.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 18:38:27.184] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-381, y=117, z=-809}) doesn't have enough leaves around top most log

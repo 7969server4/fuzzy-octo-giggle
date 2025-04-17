@@ -654,6 +654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-17 18:32:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-17 17:50:13 +0000"
@@ -826,6 +832,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-04-17 17:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-17 18:32:52 +0000"
     },
     "done": true
   },
