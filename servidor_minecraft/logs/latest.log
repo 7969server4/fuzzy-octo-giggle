@@ -3986,3 +3986,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17Apr2025 19:44:45.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Hot Stuff]
 [17Apr2025 19:46:22.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Ice Bucket Challenge]
 [17Apr2025 20:03:02.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Isn't It Iron Pick]
+[17Apr2025 20:18:47.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[17Apr2025 20:18:47.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[17Apr2025 20:19:53.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Apr2025 20:19:53.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
+[17Apr2025 20:20:12.136] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b31194d
+[17Apr2025 20:20:12.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:48799] logged in with entity id 81852 at (-275.1533503674063, 118.0, -816.8304360484644)
+[17Apr2025 20:20:12.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[17Apr2025 20:20:12.180] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[17Apr2025 20:20:12.180] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[17Apr2025 20:20:14.336] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[17Apr2025 20:20:14.336] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[17Apr2025 20:20:14.336] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[17Apr2025 20:20:14.336] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[17Apr2025 20:20:20.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[17Apr2025 20:20:20.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
