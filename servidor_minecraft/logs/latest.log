@@ -3920,3 +3920,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17Apr2025 18:43:20.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-326, y=109, z=-845} BlockPos{x=-324, y=108, z=-843}
 [17Apr2025 18:43:37.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Sweet Dreams]
 [17Apr2025 18:49:03.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [What a Deal!]
+[17Apr2025 18:53:15.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Apr2025 18:53:15.730] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[17Apr2025 18:53:15.733] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[17Apr2025 18:53:21.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Apr2025 18:53:21.629] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[17Apr2025 18:53:21.632] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[17Apr2025 18:53:41.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Apr2025 18:53:41.078] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[17Apr2025 18:53:41.082] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[17Apr2025 18:53:51.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Apr2025 18:53:51.529] [Server thread/WARN] [tombstone/]: The death event of the player camote3000 was canceled by another mod
+[17Apr2025 18:53:51.532] [Server thread/INFO] [tombstone/]: The player camote3000 has successfully been saved
+[17Apr2025 18:54:09.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Apr2025 18:54:09.928] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[17Apr2025 18:54:09.933] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[17Apr2025 18:54:38.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Apr2025 18:54:38.101] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[17Apr2025 18:54:38.102] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved

@@ -249,6 +249,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-17 17:56:22 +0000",
       "cooked_beef": "2025-04-17 18:17:58 +0000",
+      "baked_potato": "2025-04-17 18:47:51 +0000",
       "beef": "2025-04-17 17:47:06 +0000",
       "rotten_flesh": "2025-04-17 18:26:53 +0000",
       "cooked_salmon": "2025-04-17 17:33:59 +0000"
@@ -1234,6 +1235,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-17 18:47:43 +0000",
       "minecraft:taiga": "2025-04-17 17:28:33 +0000",
       "minecraft:frozen_river": "2025-04-17 17:29:44 +0000",
       "minecraft:birch_forest": "2025-04-17 17:42:51 +0000",
@@ -1244,6 +1246,7 @@
       "minecraft:stony_shore": "2025-04-17 17:30:10 +0000",
       "minecraft:snowy_taiga": "2025-04-17 17:35:07 +0000",
       "minecraft:grove": "2025-04-17 17:27:41 +0000",
+      "minecraft:jagged_peaks": "2025-04-17 18:55:23 +0000",
       "minecraft:cold_ocean": "2025-04-17 17:37:05 +0000",
       "minecraft:forest": "2025-04-17 17:44:53 +0000",
       "minecraft:deep_cold_ocean": "2025-04-17 17:36:57 +0000",
@@ -1366,6 +1369,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 17:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-17 18:55:22 +0000"
     },
     "done": true
   },
