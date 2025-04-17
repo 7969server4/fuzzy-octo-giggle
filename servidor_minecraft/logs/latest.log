@@ -4001,3 +4001,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17Apr2025 20:20:14.336] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [17Apr2025 20:20:20.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
 [17Apr2025 20:20:20.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[17Apr2025 20:24:29.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [We Need to Go Deeper]
+[17Apr2025 20:25:49.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [A Terrible Fortress]
+[17Apr2025 20:31:47.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [What a Deal!]

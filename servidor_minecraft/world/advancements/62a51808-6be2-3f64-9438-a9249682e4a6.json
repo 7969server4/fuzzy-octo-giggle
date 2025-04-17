@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-17 20:24:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-17 17:23:21 +0000"
@@ -260,6 +266,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 17:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-17 20:29:05 +0000"
     },
     "done": true
   },
@@ -959,11 +971,18 @@
       "minecraft:skeleton": "2025-04-17 17:40:23 +0000",
       "minecraft:spider": "2025-04-17 17:41:13 +0000",
       "minecraft:creeper": "2025-04-17 18:17:09 +0000",
+      "minecraft:wither_skeleton": "2025-04-17 20:26:00 +0000",
       "minecraft:zombie": "2025-04-17 17:39:44 +0000",
       "minecraft:drowned": "2025-04-17 18:19:29 +0000",
       "minecraft:zombie_villager": "2025-04-17 18:00:00 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-17 20:24:29 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -986,6 +1005,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-17 18:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-17 20:31:47 +0000"
     },
     "done": true
   },
@@ -1301,6 +1326,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-17 20:25:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 17:49:57 +0000"
@@ -1340,6 +1371,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-04-17 18:39:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 20:25:09 +0000"
     },
     "done": true
   },
@@ -1944,6 +1981,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-04-17 20:24:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-04-17 18:45:09 +0000"
@@ -2019,6 +2062,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-17 19:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-17 20:29:05 +0000"
     },
     "done": true
   },
