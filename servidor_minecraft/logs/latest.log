@@ -3973,3 +3973,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17Apr2025 19:26:31.938] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
 [17Apr2025 19:26:31.938] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [17Apr2025 19:27:46.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [A Strange Grave Dust]
+[17Apr2025 19:39:35.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to arturrssb
+[17Apr2025 19:40:23.738] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@aa6c604
+[17Apr2025 19:40:23.743] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camote3000[/127.198.27.118:59831] logged in with entity id 69942 at (-287.8037830856345, 119.0, -797.3204708101396)
+[17Apr2025 19:40:23.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 joined the game
+[17Apr2025 19:40:23.789] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to camote3000
+[17Apr2025 19:40:23.790] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to camote3000
+[17Apr2025 19:40:25.044] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from camote3000 : SUCCESS
+[17Apr2025 19:40:25.044] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[17Apr2025 19:40:25.080] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from camote3000 : SUCCESS
+[17Apr2025 19:40:25.080] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[17Apr2025 19:44:45.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Hot Stuff]
+[17Apr2025 19:46:22.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Ice Bucket Challenge]
