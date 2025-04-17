@@ -810,6 +810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-04-17 22:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-04-17 19:19:35 +0000"
@@ -879,6 +885,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-04-17 19:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-04-17 22:42:35 +0000"
     },
     "done": true
   },
@@ -1199,6 +1211,7 @@
       "minecraft:dripstone_caves": "2025-04-17 17:53:04 +0000",
       "minecraft:snowy_taiga": "2025-04-17 17:28:11 +0000",
       "minecraft:grove": "2025-04-17 17:28:56 +0000",
+      "minecraft:jagged_peaks": "2025-04-17 22:41:46 +0000",
       "minecraft:forest": "2025-04-17 17:29:46 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-17 17:22:34 +0000"
     },
