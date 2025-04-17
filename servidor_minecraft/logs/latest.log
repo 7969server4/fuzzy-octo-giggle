@@ -3916,3 +3916,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17Apr2025 18:28:39.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has reached the goal [Bone Crusher]
 [17Apr2025 18:35:18.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported camote3000 to arturrssb
 [17Apr2025 18:35:21.275] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/41626, l='ServerLevel[world]', x=-371.49, y=114.00, z=-754.48] died, message: 'Fletcher froze to death'
+[17Apr2025 18:43:10.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-326, y=110, z=-829} BlockPos{x=-327, y=109, z=-828}
+[17Apr2025 18:43:20.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-326, y=109, z=-845} BlockPos{x=-324, y=108, z=-843}
+[17Apr2025 18:43:37.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Sweet Dreams]
+[17Apr2025 18:49:03.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [What a Deal!]
