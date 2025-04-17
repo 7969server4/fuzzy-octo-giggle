@@ -4099,3 +4099,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17Apr2025 21:39:29.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 left the game
 [17Apr2025 21:43:53.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Easter Egg Searcher]
 [17Apr2025 21:44:08.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Knowledge raises the soul]
+[17Apr2025 21:55:53.731] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@36c662d1
+[17Apr2025 21:55:53.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:53065] logged in with entity id 102722 at (-284.6363829680428, 118.0, -811.8591349616497)
+[17Apr2025 21:55:53.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[17Apr2025 21:55:53.770] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[17Apr2025 21:55:53.771] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[17Apr2025 21:55:56.531] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[17Apr2025 21:55:56.531] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[17Apr2025 21:55:56.589] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[17Apr2025 21:55:56.589] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
