@@ -4054,3 +4054,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17Apr2025 21:01:54.047] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [17Apr2025 21:01:54.076] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from camote3000 : SUCCESS
 [17Apr2025 21:01:54.076] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[17Apr2025 21:07:43.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Apr2025 21:07:43.845] [Server thread/WARN] [tombstone/]: The death event of the player camote3000 was canceled by another mod
+[17Apr2025 21:07:43.846] [Server thread/INFO] [tombstone/]: The player camote3000 has successfully been saved
+[17Apr2025 21:07:57.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 was doomed to fall by Wither Skeleton
+[17Apr2025 21:08:29.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camote3000 was kicked for floating too long!
+[17Apr2025 21:08:29.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camote3000 lost connection: Flying is not enabled on this server
+[17Apr2025 21:08:29.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 left the game
+[17Apr2025 21:08:35.174] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7b4d3d3
+[17Apr2025 21:08:35.179] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camote3000[/127.198.27.118:50713] logged in with entity id 93884 at (-11.509824491787152, 57.16049238931874, -86.50125629043643)
+[17Apr2025 21:08:35.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 joined the game
+[17Apr2025 21:08:35.184] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to camote3000
+[17Apr2025 21:08:35.184] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to camote3000
+[17Apr2025 21:08:36.402] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from camote3000 : SUCCESS
+[17Apr2025 21:08:36.402] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[17Apr2025 21:08:36.402] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from camote3000 : SUCCESS
+[17Apr2025 21:08:36.402] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
