@@ -3815,3 +3815,35 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17Apr2025 17:28:32.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Easter Egg Searcher]
 [17Apr2025 17:29:46.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Knowledge of Death]
 [17Apr2025 17:29:46.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Here They Come]
+[17Apr2025 17:31:32.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Apr2025 17:31:32.536] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[17Apr2025 17:31:32.551] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[17Apr2025 17:31:41.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb was slain by Zombie
+[17Apr2025 17:35:38.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> pescado nomas
+[17Apr2025 17:39:02.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Apr2025 17:39:02.209] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[17Apr2025 17:39:02.247] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[17Apr2025 17:39:05.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> laputamare
+[17Apr2025 17:39:17.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb was blown up by Creeper
+[17Apr2025 17:39:44.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Monster Hunter]
+[17Apr2025 17:39:44.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Knowledge of Death]
+[17Apr2025 17:39:44.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [A Strange Grave Dust]
+[17Apr2025 17:40:48.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Suit Up]
+[17Apr2025 17:41:04.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Sweet Dreams]
+[17Apr2025 17:41:17.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> qfo
+[17Apr2025 17:42:25.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Acquire Hardware]
+[17Apr2025 17:42:50.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Chest Slayer]
+[17Apr2025 17:42:51.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Amateur Archaeologist]
+[17Apr2025 17:43:30.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> a quien tepeo
+[17Apr2025 17:44:27.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Getting an Upgrade]
+[17Apr2025 17:45:36.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Isn't It Iron Pick]
+[17Apr2025 17:47:14.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Ashes 'n Bones]
+[17Apr2025 17:49:57.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Acquire Hardware]
+[17Apr2025 17:50:10.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Suit Up]
+[17Apr2025 17:50:27.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Isn't It Iron Pick]
+[17Apr2025 17:51:06.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Monster Hunter]
+[17Apr2025 17:54:18.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Suit Up]
+[17Apr2025 17:57:09.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Not Today, Thank You]
+[17Apr2025 17:59:08.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Not Today, Thank You]
+[17Apr2025 17:59:37.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Hot Stuff]
+[17Apr2025 17:59:51.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Acquire Hardware]
