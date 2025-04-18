@@ -2,3 +2,15 @@
 [18Apr2025 00:11:05.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
 [18Apr2025 00:11:05.475] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
 [18Apr2025 00:11:05.479] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[18Apr2025 00:24:25.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[18Apr2025 00:24:25.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[18Apr2025 00:24:36.731] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7510f7a3
+[18Apr2025 00:24:36.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:47301] logged in with entity id 130537 at (-281.69999998807907, 119.0, -784.3480073448966)
+[18Apr2025 00:24:36.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[18Apr2025 00:24:36.770] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[18Apr2025 00:24:36.770] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[18Apr2025 00:24:39.282] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[18Apr2025 00:24:39.283] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[18Apr2025 00:24:39.326] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[18Apr2025 00:24:39.326] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[18Apr2025 00:24:52.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 has made the advancement [Acquire Hardware]
