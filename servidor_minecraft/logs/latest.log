@@ -99,3 +99,45 @@
 [18Apr2025 03:40:09.030] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
 [18Apr2025 03:42:51.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Cover Me with Diamonds]
 [18Apr2025 03:45:27.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> oe mierda replanta cuando cortes arboles
+[18Apr2025 03:47:49.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[18Apr2025 03:47:49.831] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[18Apr2025 03:47:49.835] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[18Apr2025 03:57:07.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> piedra:/
+[18Apr2025 03:57:38.479] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/157483, l='ServerLevel[world]', x=-259.50, y=119.00, z=-817.20] died, message: 'Fisherman tried to swim in lava'
+[18Apr2025 03:59:54.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> duerme
+[18Apr2025 04:00:06.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> piedra:/
+[18Apr2025 04:00:43.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Disconnected
+[18Apr2025 04:00:43.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[18Apr2025 04:06:03.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: infouni25 lost connection: Disconnected
+[18Apr2025 04:06:03.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 left the game
+[18Apr2025 04:06:26.929] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@70396bc7
+[18Apr2025 04:06:26.932] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: infouni25[/127.135.232.64:56063] logged in with entity id 168939 at (-313.46450027845543, 105.0, -838.7032677952251)
+[18Apr2025 04:06:26.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 joined the game
+[18Apr2025 04:06:26.962] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to infouni25
+[18Apr2025 04:06:26.962] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to infouni25
+[18Apr2025 04:06:32.146] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni25 : SUCCESS
+[18Apr2025 04:06:32.146] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[18Apr2025 04:06:32.180] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni25 : SUCCESS
+[18Apr2025 04:06:32.180] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[18Apr2025 04:10:32.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> duerme bebota
+[18Apr2025 04:10:35.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> ayudaaa
+[18Apr2025 04:10:36.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 has made the advancement [Sweet Dreams]
+[18Apr2025 04:10:46.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> qfue
+[18Apr2025 04:11:06.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> quiero bloque de pieda pero k sea de 4
+[18Apr2025 04:11:14.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> pero ya no hay para hacer
+[18Apr2025 04:11:20.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> nomas me sale de 3 xd
+[18Apr2025 04:11:24.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> pica ps
+[18Apr2025 04:11:37.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> tengoo piedras
+[18Apr2025 04:11:44.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> pero quiero cortar
+[18Apr2025 04:11:56.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> y ya no sale de 4 xd
+[18Apr2025 04:12:14.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> tiene 3
+[18Apr2025 04:12:24.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> pero el de 4 desaparecio xd
+[18Apr2025 04:12:38.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> no t entiendo xd
+[18Apr2025 04:12:45.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> necesitas piedra?
+[18Apr2025 04:12:45.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> per
+[18Apr2025 04:12:58.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> ven
+[18Apr2025 04:13:30.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> a
+[18Apr2025 04:13:36.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> nada
+[18Apr2025 04:13:37.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> xd
+[18Apr2025 04:13:39.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[18Apr2025 04:15:37.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Knowledge raises the soul]
