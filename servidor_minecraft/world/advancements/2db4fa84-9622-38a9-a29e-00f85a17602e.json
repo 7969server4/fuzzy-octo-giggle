@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-18 01:13:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-04-17 22:03:01 +0000"
@@ -307,6 +313,7 @@
       "bread": "2025-04-17 17:41:21 +0000",
       "rotten_flesh": "2025-04-17 17:36:48 +0000",
       "cookie": "2025-04-18 00:14:49 +0000",
+      "suspicious_stew": "2025-04-18 01:13:53 +0000",
       "glow_berries": "2025-04-17 17:34:27 +0000",
       "salmon": "2025-04-17 17:55:44 +0000",
       "cooked_salmon": "2025-04-17 17:57:32 +0000"
