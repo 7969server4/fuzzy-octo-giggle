@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-18 00:48:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-04-17 22:21:57 +0000"
@@ -682,6 +688,12 @@
       "minecraft:zombie": "2025-04-18 00:26:26 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-18 00:48:02 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
