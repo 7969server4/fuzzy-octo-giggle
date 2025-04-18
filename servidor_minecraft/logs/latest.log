@@ -57,3 +57,8 @@
 [18Apr2025 00:57:32.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 left the game
 [18Apr2025 01:02:27.523] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/97563, l='ServerLevel[world]', x=-262.72, y=119.24, z=-811.72] died, message: 'Butcher tried to swim in lava'
 [18Apr2025 01:04:59.323] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/97561, l='ServerLevel[world]', x=-265.78, y=119.06, z=-817.42] died, message: 'Mason tried to swim in lava'
+[18Apr2025 01:36:48.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported arturrssb to tumamakalata
+[18Apr2025 01:36:51.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> W
+[18Apr2025 01:36:54.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> arturrssb
+[18Apr2025 01:41:20.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[18Apr2025 01:41:20.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
