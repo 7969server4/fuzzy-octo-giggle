@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-18 01:31:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 17:42:25 +0000"
@@ -316,6 +322,7 @@
       "suspicious_stew": "2025-04-18 01:13:53 +0000",
       "glow_berries": "2025-04-17 17:34:27 +0000",
       "salmon": "2025-04-17 17:55:44 +0000",
+      "golden_carrot": "2025-04-18 01:25:02 +0000",
       "cooked_salmon": "2025-04-17 17:57:32 +0000"
     },
     "done": false
@@ -476,6 +483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-04-18 01:30:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 17:42:25 +0000"
@@ -605,6 +618,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-17 18:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-18 01:30:53 +0000"
     },
     "done": true
   },
@@ -978,6 +997,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-04-17 18:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-18 01:31:04 +0000"
     },
     "done": true
   },
@@ -1443,6 +1468,7 @@
       "minecraft:old_growth_pine_taiga": "2025-04-17 18:22:28 +0000",
       "minecraft:taiga": "2025-04-17 18:23:23 +0000",
       "minecraft:frozen_river": "2025-04-17 18:25:21 +0000",
+      "minecraft:river": "2025-04-18 01:30:30 +0000",
       "minecraft:snowy_plains": "2025-04-17 18:25:18 +0000",
       "minecraft:snowy_taiga": "2025-04-17 18:25:54 +0000",
       "minecraft:grove": "2025-04-17 18:21:31 +0000",
