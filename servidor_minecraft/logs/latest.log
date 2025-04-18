@@ -63,3 +63,24 @@
 [18Apr2025 01:41:20.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
 [18Apr2025 01:41:20.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
 [18Apr2025 02:56:04.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Ambush]
+[18Apr2025 03:07:34.682] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@494917c5
+[18Apr2025 03:07:34.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: infouni25[/127.135.232.64:47623] logged in with entity id 157465 at (-251.6020759829504, 119.0, -844.6732186309638)
+[18Apr2025 03:07:34.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 joined the game
+[18Apr2025 03:07:34.694] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to infouni25
+[18Apr2025 03:07:34.696] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to infouni25
+[18Apr2025 03:07:37.645] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni25 : SUCCESS
+[18Apr2025 03:07:37.645] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[18Apr2025 03:07:37.686] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni25 : SUCCESS
+[18Apr2025 03:07:37.686] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[18Apr2025 03:10:23.489] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@b9167e5
+[18Apr2025 03:10:23.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:44869] logged in with entity id 159418 at (-270.2781434819098, 119.0, -788.1084686359676)
+[18Apr2025 03:10:23.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[18Apr2025 03:10:23.547] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[18Apr2025 03:10:23.548] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[18Apr2025 03:10:25.699] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[18Apr2025 03:10:25.699] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[18Apr2025 03:10:25.734] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[18Apr2025 03:10:25.734] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[18Apr2025 03:11:07.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to arturrssb
+[18Apr2025 03:12:26.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> nom kiere
+[18Apr2025 03:12:35.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> esta molesto dejalo
